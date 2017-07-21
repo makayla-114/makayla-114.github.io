@@ -1,0 +1,56 @@
+#myLogo{
+    text-align: center;
+    color: white;
+    font-family:serif;
+    background-color:lightcoral;
+    
+    
+}
+#myTitle{
+    text-align: left;
+    color:lightcoral;
+    
+}
+#myParagraph{;
+    text-align: left;
+}
+#mySecondParagraph{
+    text-align: left;
+ 
+}
+#myThirdParagraph{
+    text-align: left;
+}
+#mySubTitle{
+    text-align: ;
+    color:lightcoral;
+}
+#myOtherSubTitle{
+    text-align:left;
+    color:lightcoral;
+}
+html{
+    background-color:white;
+    border-style:inset;
+    border-width:20px;
+    border-color:crimson;
+    
+}
+#myImage{
+    width:400px;
+    margin:15px;
+ 
+}
+#mySecondImage{
+    width:325px;
+    margin:20px;
+}
+#myLink{
+    float:right;
+}
+
+
+#myButton{
+ float: left;
+    
+}
